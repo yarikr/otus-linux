@@ -1,0 +1,11 @@
+List of packages:
+
+wget
+vim
+gcc
+ncurses-devel
+flex
+bison
+elfutils-libelf-devel
+bc
+openssl-devel
